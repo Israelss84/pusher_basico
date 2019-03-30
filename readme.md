@@ -1,3 +1,5 @@
+Laravel Pusher Vuejs
+
 Primer ejercicio con Pusher Básico utilizando "channel" y no privatechannel.
 
 https://www.youtube.com/watch?v=kNAZNQnig3E&t=986s
